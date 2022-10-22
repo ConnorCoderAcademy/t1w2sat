@@ -41,3 +41,6 @@ header {
 }
 ```  
 
+## Wireframes
+
+!["Figma View"](./Images/Screen%20Shot%202022-10-22%20at%201.31.49%20pm.png)
