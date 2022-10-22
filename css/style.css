@@ -1,1 +1,52 @@
 /* styling goes here */
+
+body {
+    background-color: #CFE6EB;
+    margin: 0;
+
+}
+
+header {
+    background-color: #EBD4CF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header h1 {
+    color: gray;
+}
+
+.logo {
+    background-color: #cfebd4;
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.nav-items {
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.nav-items a {
+    text-decoration: none;
+    color: #99cad5;
+    font-size: 1.5rem;
+
+}
+
+.nav-items a:hover{
+    color: beige;
+    background-color: #cfebd4;
+    transition: 0.2s;
+    border-radius: 4px;
+}
